@@ -1,0 +1,3 @@
+2019-03-06 09:49:04,175 - BaseCase - ERROR - not click
+2019-03-06 09:49:14,612 - BaseCase - ERROR - <apppageobjects.searchpage.SearchPage object at 0x0000000003753C50> page not found element('id', 'android:id/search_src_text')ÔªËØ
+2019-03-06 09:49:14,617 - BaseCase - ERROR - not send_keys

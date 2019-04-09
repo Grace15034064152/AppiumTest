@@ -1,0 +1,10 @@
+2019-03-05 20:38:02,093 - BaseCase - ERROR - not click
+2019-03-05 20:38:02,573 - BaseCase - ERROR - not click
+2019-03-05 20:38:02,681 - BaseCase - ERROR - not click
+2019-03-05 20:38:13,342 - BaseCase - ERROR - <apppageobjects.registerpage.RegisterPage object at 0x00000000036492B0> page not found element('id', 'com.pdswp.su.smartcalendar:id/username')ÔªËØ
+2019-03-05 20:38:13,343 - BaseCase - ERROR - not send_keys
+2019-03-05 20:38:23,932 - BaseCase - ERROR - <apppageobjects.registerpage.RegisterPage object at 0x00000000036492B0> page not found element('id', 'com.pdswp.su.smartcalendar:id/email')ÔªËØ
+2019-03-05 20:38:23,933 - BaseCase - ERROR - not send_keys
+2019-03-05 20:38:34,422 - BaseCase - ERROR - <apppageobjects.registerpage.RegisterPage object at 0x00000000036492B0> page not found element('id', 'com.pdswp.su.smartcalendar:id/password')ÔªËØ
+2019-03-05 20:38:34,422 - BaseCase - ERROR - not send_keys
+2019-03-05 20:38:34,546 - BaseCase - ERROR - not click

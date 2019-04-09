@@ -1,0 +1,5 @@
+2019-03-06 11:24:44,378 - BaseCase - INFO - long press
+2019-03-06 11:24:57,333 - BaseCase - ERROR - not click
+2019-03-06 11:25:00,610 - BaseCase - INFO - click
+2019-03-06 11:25:00,911 - BaseCase - ERROR - not click
+2019-03-06 11:25:01,108 - BaseCase - ERROR - not click

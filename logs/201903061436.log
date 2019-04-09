@@ -1,0 +1,5 @@
+2019-03-06 14:37:33,680 - BaseCase - INFO - click
+2019-03-06 14:37:35,333 - BaseCase - INFO - click
+2019-03-06 14:37:46,372 - BaseCase - INFO - send_keys1130489267@qq.com
+2019-03-06 14:37:47,043 - BaseCase - ERROR - not send_keys
+2019-03-06 14:37:50,904 - BaseCase - INFO - click

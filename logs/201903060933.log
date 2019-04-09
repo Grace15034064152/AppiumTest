@@ -1,0 +1,6 @@
+2019-03-06 09:34:34,925 - BaseCase - ERROR - not click
+2019-03-06 09:34:35,081 - BaseCase - ERROR - not click
+2019-03-06 09:34:35,213 - BaseCase - ERROR - not click
+2019-03-06 09:34:45,333 - BaseCase - ERROR - <apppageobjects.modifynamepage.ModifyName object at 0x0000000002CE3550> page not found element('id', 'com.pdswp.su.smartcalendar:id/username')ÔªËØ
+2019-03-06 09:34:45,337 - BaseCase - ERROR - not send_keys
+2019-03-06 09:34:45,503 - BaseCase - ERROR - not click

@@ -1,0 +1,9 @@
+platformName: Android
+appPackage: com.pdswp.su.smartcalendar
+appActivity: com.pdswp.su.smartcalendar.WelcomeNote
+platformVersion: 5.1.1
+deviceName: 127.0.0.1:62001
+sessionOverride: True
+app: /app/znbwl.apk
+noReset: True
+

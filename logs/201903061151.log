@@ -1,0 +1,7 @@
+2019-03-06 11:52:36,507 - BaseCase - ERROR - not click
+2019-03-06 11:52:39,275 - BaseCase - ERROR - not click
+2019-03-06 11:52:49,713 - BaseCase - ERROR - <apppageobjects.loginpage.LoginPage object at 0x000000000372FEF0> page not found element('id', 'com.pdswp.su.smartcalendar:id/email')ÔªËØ
+2019-03-06 11:52:49,714 - BaseCase - ERROR - not send_keys
+2019-03-06 11:53:00,222 - BaseCase - ERROR - <apppageobjects.loginpage.LoginPage object at 0x000000000372FEF0> page not found element('id', 'com.pdswp.su.smartcalendar:id/password')ÔªËØ
+2019-03-06 11:53:00,222 - BaseCase - ERROR - not send_keys
+2019-03-06 11:53:00,576 - BaseCase - ERROR - not click

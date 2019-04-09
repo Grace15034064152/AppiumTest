@@ -1,0 +1,10 @@
+2019-03-05 15:39:36,032 - BaseCase - ERROR - not click
+2019-03-05 15:39:42,416 - BaseCase - ERROR - not click
+2019-03-05 15:39:42,649 - BaseCase - ERROR - not click
+2019-03-05 15:39:52,923 - BaseCase - ERROR - <apppageobjects.registerpage.RegisterPage object at 0x00000000036BA2B0> page not found element('name', '昵称')元素
+2019-03-05 15:39:52,923 - BaseCase - ERROR - not send_keys
+2019-03-05 15:40:03,225 - BaseCase - ERROR - <apppageobjects.registerpage.RegisterPage object at 0x00000000036BA2B0> page not found element('name', '注册邮箱(这将是您的账号)')元素
+2019-03-05 15:40:03,226 - BaseCase - ERROR - not send_keys
+2019-03-05 15:40:13,562 - BaseCase - ERROR - <apppageobjects.registerpage.RegisterPage object at 0x00000000036BA2B0> page not found element('id', 'com.pdswp.su.smartcalendar:id/password')元素
+2019-03-05 15:40:13,562 - BaseCase - ERROR - not send_keys
+2019-03-05 15:40:13,690 - BaseCase - ERROR - not click
